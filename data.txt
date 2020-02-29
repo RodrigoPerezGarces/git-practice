@@ -1,0 +1,3 @@
+Name: Rodrigo
+Age: 28
+Favorite color: Red
