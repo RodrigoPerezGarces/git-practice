@@ -1,3 +1,3 @@
-Name: Rodrigo
+Name: Rodrigo Perez Garces
 Age: 28
 Favorite color: Red
